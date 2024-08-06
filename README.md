@@ -1,5 +1,6 @@
-# 💫 Sobre mi:
+# Sobre mi:
 Ingeniera en Comunicaciones y Electrónica y Desarrollador Web Front-End Jr.
+
 Apasionada por el desarrollo web y la programación.
 
 
