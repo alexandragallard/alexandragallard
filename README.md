@@ -1,7 +1,8 @@
 # Sobre mi:
 Ingeniera en Comunicaciones y Electrónica y Desarrollador Web Front-End Jr.
+Soy una apasionada del mundo de la tecnología y la programación, siempre en busca de nuevas oportunidades para crecer y desarrollar mis habilidades. 
+Me destaco por mi capacidad para organizar tareas y colaborar eficazmente en equipo, lo que me permite adaptarme rápidamente a diferentes entornos y proyectos.
 
-Apasionada por el desarrollo web y la programación.
 
 
 ## 🌐 Socials:
